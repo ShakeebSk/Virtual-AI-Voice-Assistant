@@ -1,0 +1,20 @@
+music={
+    "got":"https://www.youtube.com/watch?v=TZE9gVF1QbA",
+    "bleach":"https://www.youtube.com/watch?v=OlOi8Nxwnrg",
+    "Arijit Singh Playlist":"https://www.youtube.com/watch?v=IVjl5u4s-mQ",
+    "Atif Aslam Playlist":"https://www.youtube.com/watch?v=DKEXeoKb1CQ",
+    "Jubin Nautiyal Plalist":"https://www.youtube.com/watch?v=hua5py0z1oU",
+    "Lata Mangeshkar Playlist":"https://www.youtube.com/watch?v=aS_NfWJzPN8",
+    "Mohammed Rafi Playlist":"https://www.youtube.com/watch?v=hzWgHGqKg1Q",
+    "Shreya Ghoshal Playlist":"https://www.youtube.com/watch?v=Xn1fUdy1sA0",
+    "Udit Narayan Playlist":"https://www.youtube.com/watch?v=bydvSfemqcg",
+    "Kishore Kumar Playlist":"https://www.youtube.com/watch?v=kGO1BWoPnLI",
+    "Asha Bhosle Playlist":"https://www.youtube.com/watch?v=v2XRkY27b2s",
+    "Armaan Malik Playlist":"https://www.youtube.com/watch?v=kRBvHwOcTpo",
+    "A R Rahman  Playlist":"https://www.youtube.com/watch?v=JAd9f7V11n4",
+    "Alka Yagnik Playlist":"https://www.youtube.com/watch?v=9pBQqShmRO0",
+    "Taylor Swift Playlist":"https://www.youtube.com/watch?v=uo_CXTq6gmU",
+    # "Billie Eilish Playlist":"",
+    # " Playlist":"",
+    
+}
