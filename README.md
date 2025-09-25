@@ -1,0 +1,1 @@
+An intelligent **voice-controlled assistant** built with Python that can listen, respond, and perform multiple tasks. This assistant wakes up when you say **"Hello"**, executes commands such as opening websites, searching songs, playing them, and also acts like a **ChatGPT-powered chatbot** to answer questions in real time.
